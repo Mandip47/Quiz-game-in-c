@@ -3,7 +3,7 @@
 
 int main(void) {
   char questions[][100] = {
-      "1. What is the largest organ in the human body?",
+      "1. What is the largest organ in the human body ?",
       "2. What is the name of the tallest mountain in the world?",
       "3. Who is the author of the Harry Potter book series?",
       "4. What is the chemical symbol for gold?"};
